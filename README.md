@@ -11,3 +11,4 @@ you are in : /home/user/Music , for example use : goback 2 , now you are in /hom
 .SH AUTHOR
 Pouria Khanzadi , email:  linux.pouria@gmail.com
 # goback
+# goback
