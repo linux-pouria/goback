@@ -10,3 +10,4 @@ goback is a simple script that help to go back in your path .for example
 you are in : /home/user/Music , for example use : goback 2 , now you are in /home
 .SH AUTHOR
 Pouria Khanzadi , email:  linux.pouria@gmail.com
+# goback
